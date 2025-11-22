@@ -232,6 +232,12 @@ Route::middleware(['role:admin'])->group(function () {
 });
 ```
 
+# 🧪 Status Pengembangan
+```
+Saat ini beberapa fitur masih belum berjalan 100% dan masih dalam tahap pengembangan 
+Project ini sangat terbuka untuk dikembangkan lebih lanjut sesuai kreativitas masing-masing, baik dari sisi frontend, backend, maupun fitur tambahan.
+```
+
 # 🤝 Kontribusi
 
 Pull Request dan Issue sangat diterima untuk pengembangan lebih lanjut.
