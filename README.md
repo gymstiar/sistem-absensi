@@ -119,16 +119,13 @@ php artisan db:seed
 
 ## 🔑 Akun Login Default
 
-  Role          Username     Password
-  ------------- ------------ ----------
-  
-  Admin         admin        password
-  
-  Mentor        mentor       password
- 
-  Mahasiswa 1   mahasiswa1   password
-  
-  Mahasiswa 2   mahasiswa2   password
+•  Admin: username=admin, password=password
+
+•  Mentor: username=mentor, password=password
+
+•  Mahasiswa 1: username=mahasiswa1, password=password
+
+•  Mahasiswa 2: username=mahasiswa2, password=password
 
 ## 🔗 URL Dashboard
 
@@ -160,3 +157,10 @@ Pull Request dan Issue sangat diterima.
 ## 📄 Lisensi
 
 MIT License
+
+
+© 2025 Sistem Absensi & Pengumpulan Tugas — Developed by gymstiar.
+All rights reserved.
+
+Project ini hanya untuk kebutuhan pembelajaran, pengembangan, dan keperluan non-komersial.
+Setiap penggunaan ulang, modifikasi, atau distribusi kode wajib mencantumkan kredit kepada pengembang asli.
