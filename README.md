@@ -100,9 +100,13 @@ php artisan key:generate
 ### 5️⃣ Buat Database MySQL
 
 Database: sistem_absensi
+
 Kemudian sesuaikan .env:
+
 DB_DATABASE=sistem_absensi
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 ### 6️⃣ Migrasi Database
